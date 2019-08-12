@@ -27,7 +27,5 @@ Questions will be gathered here for a future stream advice stream.
 * TODO: Build up a set of documents with tips for streamers at different levels
   - The absolute minimum you need to know in order to stream
     - this will be extremely short
-  - Level up your stream
-  - AffiliateCongrats
-  - Raiding
+    - confidence!
   - View counts and the difference between affiliate pushes and partner pushes
