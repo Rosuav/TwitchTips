@@ -36,6 +36,16 @@ this usually means the time from when you say something to when the viewers
 see it (or, conversely, the time from when a viewer types something in chat
 to when the streamer reacts to it).
 
+### Operating System (OS)
+
+The thing that runs your computer. It's your OS's job to run the things that
+you actually care about. Popular operating systems include Mac OS (aka OSX
+aka macOS), Microsoft Windows, Linux (usually seen in some form of distro
+eg Debian, Ubuntu, Red Hat, Kali), FreeBSD, iOS, etc, etc, etc.
+
+Your choice of operating system dictates some of the software you can use,
+but other software ("cross-platform") can be run on many OSes.
+
 ### Resolution
 
 The number of pixels in the image you're sending. Most viewers aren't going
@@ -61,3 +71,12 @@ relieve the load on their own connections.
 
 If you don't have transcoding available, everyone has to download at the same
 bandwidth that you are uploading.
+
+### Uninterruptible Power Supply (UPS)
+
+If a surge protector is a seatbelt, a UPS is a full-on ejector seat. When your
+power goes out, your UPS will switch to battery power and keep everything going
+for a while - long enough to cover for a short outage, or to let you cleanly
+shut down before a longer one. Even without an actual outage, a good UPS will
+clean your incoming power - industrial loads near you won't be able to hurt
+your computing equipment. A UPS can significantly extend the life of your PC.
