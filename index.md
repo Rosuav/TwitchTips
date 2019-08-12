@@ -6,7 +6,7 @@ for new things to do!
 
 ## Getting Started
 
-* The Absolute Minimum You Need To Know _(coming soon)_
+* [The Absolute Minimum You Need To Know](Basics)
 * Automate (your mate, too!) _(coming soon)_
 
 ## Leveling up
