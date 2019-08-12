@@ -15,7 +15,7 @@ for new things to do!
 * Stream quality - bitrate, resolution, FPS, encoding _(coming soon)_
 * [Tips for new affiliates](AffiliateCongrats)
 * [Raiding how-to (and why-to)](RaidingOnTwitch)
-* View counts, why they matter, and why they don't _(coming soon)_
+* [View counts, why they matter, and why they don't](ViewCounts)
 
 ## Streamer FAQ collections
 

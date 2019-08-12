@@ -46,6 +46,14 @@ eg Debian, Ubuntu, Red Hat, Kali), FreeBSD, iOS, etc, etc, etc.
 Your choice of operating system dictates some of the software you can use,
 but other software ("cross-platform") can be run on many OSes.
 
+### Noise
+
+In statistics, "noise" is any variation that has no real meaning. For instance,
+you might ask OBS to broadcast at approximately 4000Kbps, but your actual
+bitrate varies from 3915Kbps to 4113Kbps; this is still basically 4000, and
+the difference is "just noise". Viewer figures changing from 25 to 30 to 22 to
+27 is also a whole lot of noise; the figure is basically stable.
+
 ### Resolution
 
 The number of pixels in the image you're sending. Most viewers aren't going
@@ -80,3 +88,11 @@ for a while - long enough to cover for a short outage, or to let you cleanly
 shut down before a longer one. Even without an actual outage, a good UPS will
 clean your incoming power - industrial loads near you won't be able to hurt
 your computing equipment. A UPS can significantly extend the life of your PC.
+
+### VOD
+
+Short for "Video On Demand", this refers to all forms of pre-published videos.
+Most commonly, a VOD is a past broadcast, retained for some time automatically
+and able to be preserved indefinitely as a Highlight. If you missed a glorious
+moment from your favourite streamer, just nip over and check the VOD! You can
+even VOD-clip (take clips directly from the VOD), giving extra flexibility.
