@@ -25,4 +25,4 @@ An ongoing series of FAQ streams.
   to as needed, and removed from as they are answered
 * [Part 1, 22nd July 2019](StreamerAdvice_20190722)
 
-Glossary _(coming soon)_
+[Glossary of streaming terms](Glossary)
