@@ -1,5 +1,8 @@
 # Glossary
 
+* TOC
+{:toc}
+
 ## General tips
 
 Most streaming terminology is heavily derived from somewhere else. The Almighty
