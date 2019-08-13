@@ -77,7 +77,7 @@ is likely to give reasonably useful results, if you can be that patient.
 
 ## When these figures are NOT important
 
-When you're deciding what to do. When you're deciding what time to stream When
+When you're deciding what to do. When you're deciding what time to stream. When
 you're deciding pretty much anything about your stream! Stream what works for
 you, don't try to "follow the numbers"; don't play the most popular games, or
 the most popular days of week, just for the sake of "getting viewers". Be what
