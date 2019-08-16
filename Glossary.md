@@ -18,7 +18,7 @@ The amount of stuff you're sending or receiving. For a broadcaster, this is
 generally limited by the quality of your internet connection; try to keep
 your streaming software limited to no more than about 80% of what your actual
 internet connection can handle (so if you can handle 5000Kbps, stream at no
-more than 4000Kbps).
+more than 4000Kbps). See [Stream Quality Tips](StreamQuality) for more info.
 
 ### FPS / Frame Rate
 
@@ -27,7 +27,8 @@ can get (up to a point), but for streamers, every frame costs you bandwidth
 (see above). Streaming at 30FPS is usually fine; if your connection struggles
 to handle your output bandwidth, it may be better to stream a stable and high
 quality 20FPS than a glitchy 30. Increasing to 60FPS should only be done if
-you know you can handle it.
+you know you can handle it. See [Stream Quality Tips](StreamQuality) for more
+info.
 
 ### Latency
 
@@ -60,7 +61,8 @@ The number of pixels in the image you're sending. Most viewers aren't going
 to see anything more than 1080p or even 720p (an HD screen with some room
 taken away for chat is generally going to leave about 800p at best), and
 as with FPS, the higher your resolution, the more you have to output. It's
-better to stream a high quality stable 480p than a glitchy 1080p.
+better to stream a high quality stable 480p than a glitchy 1080p. See
+[Stream Quality Tips](StreamQuality) for more info.
 
 ### Recursion
 
