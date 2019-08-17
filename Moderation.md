@@ -2,7 +2,7 @@
 
 Twitch offers a number of moderation tools and anti-spam/anti-troll guards. I
 go into some detail during the second part of [Streamer Tips 2](StreamerAdvice_20190816)
-which should be viewed as a companion to this. (TODO: Get a starting timestamp.)
+which should be viewed as a companion to this - moderation starts at the 08:36 mark.
 
 ## AutoMod
 
