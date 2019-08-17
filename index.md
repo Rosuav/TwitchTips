@@ -24,6 +24,6 @@ An ongoing series of FAQ streams.
 * [Questions awaiting answering](StreamerAdviceQuestions) - these will be added
   to as needed, and removed from as they are answered
 * [Part 1, 22nd July 2019](StreamerAdvice_20190722)
-* [Part 2, 16th Aug 2019](StreamerAdvice_20190816) _(coming soon)_
+* [Part 2, 16th Aug 2019](StreamerAdvice_20190816)
 
 [Glossary of streaming terms](Glossary)
