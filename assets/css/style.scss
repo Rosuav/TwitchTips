@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Override the theme's decision to embolden links when you hover */
+a:hover, a:focus {
+	font-weight: normal !important;
+	text-decoration: underline;
+}
