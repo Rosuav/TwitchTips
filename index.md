@@ -16,6 +16,7 @@ for new things to do!
 * [Tips for new affiliates](AffiliateCongrats)
 * [Raiding how-to (and why-to)](RaidingOnTwitch)
 * [View counts, why they matter, and why they don't](ViewCounts)
+* [Creating a web site like this](MarkdownWebSite)
 
 ## Streamer FAQ collections
 

@@ -35,4 +35,22 @@ So, you have your content, but it's ugly? That's actually really easy to fix!
 GitHub offers a number of simple
 [themes](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser)
 to choose from, and if you're happy with one of those, job done! But maybe, like
-me, you're a bit pickier than that.
+me, you're a bit pickier than that. Fortunately the themes can be tweaked, so
+check out the instructions associated with your chosen theme. For this site, I
+adjusted the way links look, with not even a dozen lines of code. Got a friend
+who knows HTML and CSS? Small tweaks like this will be easy and quick.
+
+What if you already have a nicely-done web site, and you want to migrate it?
+That can be done too, but it'll mean a bit of one-off work, and you'll need to
+know HTML to do it (or find someone who does). In short, what you would do is
+create a single HTML file and say "here, put the Markdown content RIGHT THERE"
+and GitHub Pages will do exactly that.
+
+Once you have a nice-looking Markdown site, it becomes a breeze to edit. You
+don't need any HTML knowledge, you don't have to worry about breaking the whole
+layout, you don't need to stress about whether it looks good. Just edit the
+simple text files. It's even possible - easy, in fact - to let other people
+contribute, perhaps copyediting, or perhaps adding significant content.
+
+Don't pay some company every month for a job that you can do easier *and better*
+on your own!
