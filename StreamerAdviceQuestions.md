@@ -6,7 +6,7 @@ Questions will be gathered here for a future stream advice stream.
   - Make this a separate page and strongly encourage contributions.
   - Youtube Music Library:
     - William Tell Overture: muted
-    - Sugar Plum Fairies: not muted as bgm, retest as opening music
+    - Sugar Plum Fairies: muted
     - Waltz of the Flowers: muted
     - Ride of the Valkyries: not muted as bgm, retest as opening music
     - 1812 Overture: muted
