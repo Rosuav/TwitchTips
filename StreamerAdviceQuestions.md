@@ -8,7 +8,7 @@ Questions will be gathered here for a future stream advice stream.
     - William Tell Overture: muted
     - Sugar Plum Fairies: muted
     - Waltz of the Flowers: muted
-    - Ride of the Valkyries: not muted as bgm, retest as opening music
+    - Ride of the Valkyries: muted
     - 1812 Overture: muted
 * Random tools that may or may not be useful:
   - https://modlookup.3v.fi/
