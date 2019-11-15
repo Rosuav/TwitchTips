@@ -10,5 +10,6 @@ Questions will be gathered here for a future stream advice stream.
     - Waltz of the Flowers: muted
     - Ride of the Valkyries: muted
     - 1812 Overture: muted
+  - The same pieces of music from my MIDI renders *don't* get muted!
 * Random tools that may or may not be useful:
   - https://modlookup.3v.fi/
