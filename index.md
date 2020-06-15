@@ -17,12 +17,12 @@ for new things to do!
 * [View counts, why they matter, and why they don't](ViewCounts)
 * [Creating a web site like this](MarkdownWebSite)
 
-## Tools available
+## Cool Tools
 
 * [Automate (your mate, too!)](Automation)
 * [Channel bots](ChannelBots)
 * [Quality of Life improvements](QOLTools)
-* Flexibility and control
+* [Flexibility, control, and productivity](Productivity)
 
 ## Streamer FAQ collections
 

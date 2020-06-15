@@ -28,14 +28,3 @@ someone else remember which tags you were using than to pick them out again!
 Mainly this is of interest to emote artists, but possibly for others too. You
 can test out emotes to see how they line up, how good they look on the main
 background colours they'll be seen on, etc. [https://twitch-contrast.firebaseapp.com/](https://twitch-contrast.firebaseapp.com/)
-
-
-TODO:
-* OSDRewards
-* Rabbit's Watch
-
-
-* Pixel Plush
-* OBS-WebSocket, obs-remote-volume, t2t2
-* https://modlookup.3v.fi/
-
