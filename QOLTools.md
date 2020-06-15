@@ -35,8 +35,8 @@ actual message without clicking on it. Lisp Whispers will show you whispers
 as they arrive, and can be slid off onto a secondary monitor for easy access.
 
 Access it at [https://rosuav.github.io/LispWhispers/](https://rosuav.github.io/LispWhispers/)
-and optionally [open it in a popup window](javascript:window.open('https://rosuav.github.io/LispWhispers/', 'whispers', 'width=600, height=400')).
-It will need to be granted some permissions from Twitch.
+and optionally <a href="javascript:window.open('https://rosuav.github.io/LispWhispers/', 'whispers', 'width=600, height=400')">
+open it in a popup window</a>. It will need to be granted some permissions from Twitch.
 
 ## Greeting Mouse
 
