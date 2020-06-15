@@ -7,16 +7,22 @@ for new things to do!
 ## Getting Started
 
 * [The Absolute Minimum You Need To Know](Basics)
-* [Automate (your mate, too!)](Automation)
 
 ## Leveling up
 
-* [Moderation tools](Moderation)
+* [Moderators and moderation tools](Moderation)
 * [Stream quality - bitrate, resolution, FPS, encoding](StreamQuality)
 * [Tips for new affiliates](AffiliateCongrats)
 * [Raiding how-to (and why-to)](RaidingOnTwitch)
 * [View counts, why they matter, and why they don't](ViewCounts)
 * [Creating a web site like this](MarkdownWebSite)
+
+## Tools available
+
+* [Automate (your mate, too!)](Automation)
+* (Channel bots)(ChannelBots)
+* Quality of Life improvements
+* Flexibility and control
 
 ## Streamer FAQ collections
 
