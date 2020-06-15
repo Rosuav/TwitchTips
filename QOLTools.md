@@ -12,7 +12,8 @@ Also called "BTTV" or "Better Twitch.TV", this browser extension does a *lot*.
 It permits free-to-use emotes (which can even be used by non-affiliates), has
 various UI tweaks, an alternate emote picker, and more.
 
-Download it from https://betterttv.com/ if you don't have it already!
+Download it from [https://betterttv.com/](https://betterttv.com/) if you
+don't have it already!
 
 NOTE: BTTV includes some paid features, including personal emotes. It can
 still be used to great effect for free.
@@ -33,8 +34,9 @@ show up with a highlight saying who whispered you, but you can't read the
 actual message without clicking on it. Lisp Whispers will show you whispers
 as they arrive, and can be slid off onto a secondary monitor for easy access.
 
-Access it at https://rosuav.github.io/LispWhispers/ and optionally open it in
-a popup window. It will need to be granted some permissions from Twitch.
+Access it at [https://rosuav.github.io/LispWhispers/](https://rosuav.github.io/LispWhispers/)
+and optionally [open it in a popup window](javascript:window.open('https://rosuav.github.io/LispWhispers/', 'whispers', 'width=600, height=400')).
+It will need to be granted some permissions from Twitch.
 
 ## Greeting Mouse
 
