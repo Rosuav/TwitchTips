@@ -20,8 +20,8 @@ for new things to do!
 ## Tools available
 
 * [Automate (your mate, too!)](Automation)
-* (Channel bots)(ChannelBots)
-* Quality of Life improvements
+* [Channel bots](ChannelBots)
+* [Quality of Life improvements](QOLTools)
 * Flexibility and control
 
 ## Streamer FAQ collections

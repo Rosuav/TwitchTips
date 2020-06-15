@@ -32,8 +32,6 @@ background colours they'll be seen on, etc. [https://twitch-contrast.firebaseapp
 
 TODO:
 * bell-ringer
-* greeting-mouse
-* LispWhispers
 * OSDRewards
 * Rabbit's Watch
 
