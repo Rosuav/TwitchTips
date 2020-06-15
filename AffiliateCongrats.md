@@ -59,6 +59,8 @@ put in them?
   all - but it's still available to *you*, the streamer. Your tier three emote
   can be anything that you really just WISH existed, or perhaps it can celebrate
   the generosity of those who want to support you so much.
+- When people cheer in your channel, they can permanently unlock emotes. If you
+  have slots for these emotes, again, you'll have those emotes yourself.
 - Remember, affiliation doesn't stop you from using BTTV or FFZ emotes within
   your own channel. Plan for your subscriber emotes to be used in _other_ parts
   of Twitch, and for emotes that would only ever be used in your own chat, use
@@ -68,7 +70,8 @@ Uploading new emotes introduces a small delay while they're approved, but you
 can redo this any time you want to. So don't stress out over this, and have all
 the fun :)
 
-As your channel grows, you have the opportunity to unlock more Tier 1 emotes.
+As your channel grows, you have the opportunity to unlock more Tier 1 emotes,
+and emotes for the higher bit badges too.
 So if you have more ideas for emotes than you have slots for, write down the
 other ideas, as you might be able to use them later!
 
