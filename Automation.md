@@ -31,7 +31,6 @@ background colours they'll be seen on, etc. [https://twitch-contrast.firebaseapp
 
 
 TODO:
-* bell-ringer
 * OSDRewards
 * Rabbit's Watch
 

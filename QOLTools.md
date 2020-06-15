@@ -43,3 +43,31 @@ The Greeting Mouse will highlight the first message from each person.
 
 [Chrome extension](https://chrome.google.com/webstore/detail/greeting-mouse/ncfbcmbgihgdlljhambifpmfgdpbdjom)
 only at present (sorry, other browser users).
+
+## Bell-Ringer
+
+StreamLabs alerts are great, but the StreamLabs page itself tends to have a lot
+of notifications, and it constantly seems to be telling you about *something*.
+If that doesn't interest you, this extension will keep them out of your face.
+You can still click on the bell to see what's new, but it won't shake around
+with a red highlight any more.
+
+[Chrome extension](https://chrome.google.com/webstore/detail/bell-ringer/kffjmeljahpbomnnkjfjomemefgkdnlc)
+only at present (sorry, other browser users).
+
+## Tab muter
+
+Muting the video player can have unintended consequences, but you should retain
+full control of what you listen to. Chrome has some neat ways to mute and
+unmute tabs but the user interface is a little limited, and requires the mouse.
+
+With this installed, you can:
+* Press Ctrl-M to mute or unmute the current tab, independently of others
+* Press Ctrl-U to unmute the current tab and protect it from Ctrl-Shift-5
+* Press Ctrl-Shift-5 to immediately mute ALL tabs, even if focus isn't on
+  Chrome at the time
+* Press Ctrl-Shift-6 to unmute tabs muted with Ctrl-Shift-5 but no others
+* Manage muting and unmuting via an external integration if desired.
+
+[Chrome extension](https://chrome.google.com/webstore/detail/websocket-tab-muter/fkchodnonbibmpdohfedhflalajgebkf)
+to fix Chrome issues :)
