@@ -50,6 +50,8 @@ Twitch offers you a number of ways to restrict who's allowed to speak in chat.
 These tools can be used to combat spam or trolls, but they can also block legit
 people from chatting, so use them wisely (and sparingly).
 
+Most of these can be activated and deactivated on the fly by any moderator.
+
 ### Follower-only mode
 
 Anyone who's not following your channel, or who hasn't been following for long
@@ -57,6 +59,12 @@ enough, can't chat. This is an effective temporary measure for keeping out
 newly-created accounts, but it's also a strong turn-off for new viewers. Your
 channel will become more insular, less welcoming. I recommend not using this
 permanently, except in special circumstances.
+
+This is best used when a massive influx of trolls starts making noises and you
+need to deal with them all.
+
+* Activate: `/followers 600` (ten minutes is usually a good choice)
+* Deactivate: `/followersoff`
 
 ### Subscriber-only mode
 
@@ -66,6 +74,12 @@ ONLY to tame a nightmare situation, and then disabled again afterwards. If you
 are tempted to use sub-only mode permanently, consider instead creating a
 sub-only *chat room*, as this offers similar benefits without the turn-off.
 
+This is best used when things are SERIOUSLY messed up and you just need to turn
+everything off and let the mods catch up.
+
+* Activate: `/subscribers`
+* Deactivate: `/subscribersoff`
+
 ### Slow mode
 
 Unlike the previous options, this does not block any users completely, but all
@@ -74,6 +88,12 @@ eg 1-second slow mode or 3-second slow mode, this can be a reasonable way to
 keep your channel from getting too noisy (but usually that's not necessary);
 for large values of N (eg 30-second or more), it can help to tame a bad
 situation and let your mods catch up with what's going on.
+
+This is best used when a small number of users are repeatedly spamming and
+you can't catch them all to time them out.
+
+* Activate: `/slow 3` or `/slow 10` or (for really bad situations) `/slow 30`
+* Deactivate: `/slowoff`
 
 ### Chat delay
 
@@ -95,12 +115,24 @@ commonly, it's treated as a toy. "Turn on emote-only chat for two minutes!"
 is a fun reward for your community (maybe something people can spend their
 channel currency on).
 
+As a mod tool, this is probably best used when the spam involves unsavoury
+text or ASCII art? Maybe? But it's a great fun toy.
+
+* Activate: `/emoteonly`
+* Deactivate: `/emoteonlyoff`
+
 ### R9K mode
 
 This can be seen as a special form of slow mode. Unique messages are permitted;
 duplicates are blocked. Be aware that this can make your channel unfriendly
 towards incoming [raids](RaidingOnTwitch), as raids often involve all members
 posting the same message.
+
+This is best used when large numbers of accounts post exactly the same text
+over and over.
+
+* Activate: `/uniquechat`
+* Deactivate: `/uniquechatoff`
 
 ## Mod icons
 
@@ -113,5 +145,8 @@ The mod icons do have one unique feature, however: you can delete a single
 message, something you can't easily do any other way. This message removal
 does not remove a mod sword, does not excessively purge all text, and is a
 great way to deal with an accidental slip-up by an otherwise-legit person.
+
+* This only affects the person who does it, and can be activated/deactivated
+  via the gear icon in your chat window.
 
 ----
