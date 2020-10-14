@@ -54,6 +54,10 @@ If that doesn't interest you, this extension will keep them out of your face.
 You can still click on the bell to see what's new, but it won't shake around
 with a red highlight any more.
 
+At present, this also patches copy-to-clipboard on all Twitch pages, fixing
+a bug with emotes and newlines. Eventually this should be corrected upstream,
+and then this feature-ish will be removed.
+
 [Chrome extension](https://chrome.google.com/webstore/detail/bell-ringer/kffjmeljahpbomnnkjfjomemefgkdnlc)
 only at present (sorry, other browser users).
 
