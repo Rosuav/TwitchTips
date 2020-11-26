@@ -30,6 +30,7 @@ community. Unless you are yourself an emote artist, spend some time looking at
 the portfolios of a few artists available for commission.
 
 - [Lara_Cr](https://trello.com/b/PoJd0ErX/commissions)
+- [MaayaInsane](https://www.maykonopaskova.com/emotes/)
 - [Videokid](https://www.thenevermorenest.com/commissions/)
 - [KisakaToriama](https://www.kisakatoriama.com/emote-commissions.html)
 - And any other emote artists you know of
