@@ -8,7 +8,9 @@ checklist or step-by-step to out.
 
 1. Select a raid target. Are you raiding an old friend? Raiding someone you
    just found because they're in a notable category? Returning the favour to
-   someone who's raided you in the past?
+   someone who's raided you in the past? If you're interested, you can use a
+   tool [from my channel bot](https://sikorsky.rosuav.com/raidfinder) to find
+   streams with similar category, viewership, and tags to your own.
 2. Snoop your target. (Make sure you're not accidentally revealing too much
    of that person's stream; be sure to mute the stream so you don't rebroadcast
    their audio by mistake.) Try to figure out whether they're about to end, or
