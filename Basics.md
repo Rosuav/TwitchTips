@@ -36,7 +36,10 @@ you can.
 Go to [https://www.twitch.tv/dashboard/settings](https://www.twitch.tv/dashboard/settings)
 and access your "Stream Key". You'll need to give this to your streaming software.
 
-Enable "Store past broadcasts".
+Go to [https://dashboard.twitch.tv/settings/stream](https://dashboard.twitch.tv/settings/stream)
+and enable "Store past broadcasts" - this will allow people who missed your streams
+to go back and see what happened, and also allows YOU, the broadcaster, to easily
+see how your streams are looking and sounding.
 
 You may need to enable two-factor authentication on your account too.
 
