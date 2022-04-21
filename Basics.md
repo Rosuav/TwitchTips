@@ -8,7 +8,7 @@ I'm here (to intimidate you - no wait, that's not what I meant!).
 You'll need some sort of streaming software. For streaming from certain game
 consoles, from an iPad, or some other platforms, there may be a native app for
 this purpose; for most people, I recommend [OBS Studio](https://obsproject.com/),
-or its relative [SLOBS](https://streamlabs.com/streamlabs-obs).
+or one of its relatives.
 
 Whatever you pick, there's probably an automatic setup option that will do most
 of the work for you. Let it pick a bandwidth and resolution for you if possible.
