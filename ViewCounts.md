@@ -13,11 +13,15 @@ the different numbers even mean?
 
 In general, a "viewer" is someone presently (or recently) consuming the video
 stream. So long as the actual video is playing, that person should be counted.
-Be aware that some browsers will pause videos in background tabs if they see
-that it's not achieving anything; one way to ensure that your view is still
-counted is to keep the volume up far enough that the tab shows a "speaker" icon
-on it. You can then mute the entire tab or site if you choose, and the video
-will continue to play even if the tab is in the background.
+Some browsers will unload tabs to conserve memory for tabs which are visible,
+which would stop the video player; prevent this by keeping the volume high
+enough that the tab shows a "speaker" icon on it.
+
+An engineer who worked for Twitch [confirmed](https://twitter.com/Fugiman/status/1401052105989771267)
+that you can leave the video player muted and you should still count as a
+viewer. If the video buffers and the tab is not visible, the player may not
+resume playing, however, so to ensure that you continue to count, switch back
+to the tab periodically.
 
 To minimize the bandwidth a background tab consumes, you can lower its video
 quality, as long as the stream has [transcoding](Glossary#transcoding) active.
@@ -42,14 +46,19 @@ This is not an official term, but the viewer count has one special case: the
 achievement required for a partnership application involves an average of 75
 viewers, "excluding Hosts, Raids, and Embeds". All other definitions of view
 count include those subcategories, but for this specific calculation, anyone
-who is watching your stream with "?referrer=raid" in the URL will not count;
-nor will people watching your stream using some forms of multi-twitch (which
-count as "embeds"), or those seeing your stream hosted elsewhere.
+who has raided into your stream will not count; nor will people watching
+your stream using some forms of multi-twitch (which count as "embeds"), or
+those seeing your stream hosted elsewhere.
 
-So if you've just raided someone who's pushing for partnership, do them a
-favour and click on their channel name to remove the referrer tag! Some
-streamers have a convenient bot message that provides a link that will do the
-same thing, bringing you into the stream itself without the tag.
+Note that asking your viewers to remove parts of the URL, or to click on
+something, or anything like that, has no benefit other than placebo. Focus
+on making the best quality stream you can, and don't stress about the things
+you and your viewers can't change :)
+
+Remember, too, that the viewers who do not count to the 75 will still improve
+your stream's discoverability. Everyone is helping there and they don't have
+to do any work at all! There are a few other ways that viewers can go over
+and above though - see [Discoverability tips](discoverability) for some ideas!
 
 ### Total Views
 
