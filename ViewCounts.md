@@ -14,16 +14,14 @@ the different numbers even mean?
 In general, a "viewer" is someone presently (or recently) consuming the video
 stream. So long as the actual video is playing, that person should be counted.
 Some browsers will unload tabs to conserve memory for tabs which are visible,
-which would stop the video player. In Chrome, for example, you can turn off
-this behaviour entirely in the Settings/Performance screen, or you can leave
-it turned on and allow only certain sites to remain active.
+which would stop the video player; prevent this by keeping the volume high
+enough that the tab shows a "speaker" icon on it.
 
-An engineer who worked for Twitch confirmed that you can leave the video
-player muted and you should still count as a viewer. In practise, however,
-when the video buffers in a tab which isn't visible, the video player will
-usually not resume playing until you switch back to that tab. If you're
-going to switch between viewing a few different streamers, you may need to
-switch to that tab every so often.
+An engineer who worked for Twitch [confirmed](https://twitter.com/Fugiman/status/1401052105989771267)
+that you can leave the video player muted and you should still count as a
+viewer. If the video buffers and the tab is not visible, the player may not
+resume playing, however, so to ensure that you continue to count, switch back
+to the tab periodically.
 
 To minimize the bandwidth a background tab consumes, you can lower its video
 quality, as long as the stream has [transcoding](Glossary#transcoding) active.
@@ -52,30 +50,15 @@ who has raided into your stream will not count; nor will people watching
 your stream using some forms of multi-twitch (which count as "embeds"), or
 those seeing your stream hosted elsewhere.
 
-At some point it was thought that removing the ?referrer=raid parameter
-from the URL or refreshing the stream or even clicking on the channel name
-or a link to the channel would make you count for this calculation. Maybe
-it did at some point, but the same engineer who confirmed that it is fine
-to mute the video player also said that none of these things work.
+Note that asking your viewers to remove parts of the URL, or to click on
+something, or anything like that, has no benefit other than placebo. Focus
+on making the best quality stream you can, and don't stress about the things
+you and your viewers can't change :)
 
-For clarification, parameters in URLs may change what you see on a site,
-like when you want to sort from lowest to highest, but they do not
-actually change the data on the site. Whatever Twitch does to track who
-raided in is data on their site which can't be manipulated.
-
-However, the viewers who are part of a raid do still improve the chance
-for the stream they raided to be discovered. Viewers who might never have
-clicked on the stream before may see the stream recommended to them on
-the front page of Twitch in one of the shelves, or in the category the
-stream is in.
-
-Instead of telling viewers to refresh the stream or click on a link, a
-streamer should probably focus on being a welcoming host, and encourage
-their viewers to make clips. The best clips are a great way of showcasing
-the best parts of a streamer's channel, and can be made into Featured
-clips which can be discovered on the front page of Twitch. This isn't a
-guaranteed way of bringing in new viewers, but it's built-in and free, so
-why not use it?
+Remember, too, that the viewers who do not count to the 75 will still improve
+your stream's discoverability. Everyone is helping there and they don't have
+to do any work at all! There are a few other ways that viewers can go over
+and above though - see [Discoverability tips](discoverability) for some ideas!
 
 ### Total Views
 
