@@ -58,7 +58,7 @@ you and your viewers can't change :)
 Remember, too, that the viewers who do not count to the 75 will still improve
 your stream's discoverability. Everyone is helping there and they don't have
 to do any work at all! There are a few other ways that viewers can go over
-and above though - see [Discoverability tips](discoverability) for some ideas!
+and above though - see [Discoverability tips](Discoverability) for some ideas!
 
 ### Total Views
 
