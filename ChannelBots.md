@@ -47,10 +47,10 @@ Not every bot does everything here, but here are some things you can look for:
 * Channel loyalty points (distinct from Twitch's on-platform currency) and the
   ability to see who your most regular viewers are.
 * Quotes. Add them when funny things happen, and pull up random out-of-context
-  quotes from people. [It](https://sikorsky.rosuav.com/channels/rosuav/quotes)
+  quotes from people. [It](https://mustardmine.com/channels/rosuav/quotes)
   [can](https://devicatoutlet.com/quotes)
-  [be](https://sikorsky.rosuav.com/channels/stephenangelico/quotes)
-  [hilarious](https://sikorsky.rosuav.com/channels/iimdprods/quotes)!
+  [be](https://mustardmine.com/channels/stephenangelico/quotes)
+  [hilarious](https://mustardmine.com/channels/iimdprods/quotes)!
 * Viewer engagement - interactive games, greeting new arrivals, celebrating
   donations or subscriptions, etc, etc.
 * Moderation - timing out or banning users, eg for links (and they can have a
