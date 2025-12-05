@@ -14,7 +14,7 @@ personally recommend. All of them will cost you nothing at all.
 Before you hit that all-important "Start Streaming" button, you'll want to set
 your game/category, title, tags, and so on.
 
-[The Mustard Mine](https://mustard-mine.herokuapp.com/) can take care of this,
+[The Mustard Mine](https://mustardmine.com/) can take care of this,
 and can also schedule a tweet, manage a countdown timer, and related tasks.
 
 This is extremely helpful when you operate a rotating schedule (eg "on Monday,
