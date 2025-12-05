@@ -32,7 +32,7 @@ Handy links, in no particular order:
 * https://obsproject.com/
 * https://github.com/Palakis/obs-websocket/releases (scroll down to "Assets" to
   download the latest version)
-* https://mustard-mine.herokuapp.com/
+* https://mustardmine.com/
 * https://git-scm.com/downloads
 * https://www.python.org/
 * https://github.com/Rosuav/shed (clone with git to get updates, or download an
