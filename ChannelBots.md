@@ -15,8 +15,8 @@ afraid to use more than one bot - they don't fight (usually)!
 
 These bots can be downloaded and run on your own computer, and they'll use the
 name of whatever account you authenticate them with. You'll see various channels
-give their bots appropriate names, such as CandiCat (DeviCat), INS4NEBOT
-(MaayaInsane), mirrors_reflection (Person_in_the_MIRROR), etc.
+give their bots appropriate names, such as CandiCat (DeviCat), MAY0B0T
+(Maaya), mirrors_reflection (Person_in_the_MIRROR), etc.
 
 * StreamLabs Chatbot (formerly Ankhbot)
 * DeepBot (non-free)
@@ -48,7 +48,7 @@ Not every bot does everything here, but here are some things you can look for:
   ability to see who your most regular viewers are.
 * Quotes. Add them when funny things happen, and pull up random out-of-context
   quotes from people. [It](https://mustardmine.com/channels/rosuav/quotes)
-  [can](https://devicatoutlet.com/quotes)
+  [can](https://devicat.art/quotes)
   [be](https://mustardmine.com/channels/stephenangelico/quotes)
   [hilarious](https://mustardmine.com/channels/iimdprods/quotes)!
 * Viewer engagement - interactive games, greeting new arrivals, celebrating
